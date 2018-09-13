@@ -1,5 +1,1 @@
 puppy
-ocelot
-bat
-bear
-sloth
